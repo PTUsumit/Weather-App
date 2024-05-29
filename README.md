@@ -8,8 +8,7 @@ Welcome to the Weather Integration project using uAgents! This project leverages
 - [Usage](#usage)
 - [uAgents Endpoints](#uagents-endpoints)
 - [Running the React App](#running-the-react-app)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -136,4 +135,4 @@ The uAgents handle specific request. Here is the main agent and its functionalit
     ```bash
     npm start
     ```
- **It is extreamly sorrry that the you have to take the backend file in your vs code and run app.py and agent.py to get effective result.**
+ **It is extreamly sorry that  you have to take the backend file in your vs code and run app.py and agent.py to get effective result.**
